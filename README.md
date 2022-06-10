@@ -1,5 +1,15 @@
-# Socket Server
+# Node.js + Socket.io Controll-users bank App
 
-Este backend contiene todo lo necesario para configurar un servidor de express + socket.io.
 
-Cualquier conexión adicional de sockets, se puede hacer en el archivo ```models/sockets.js``` y cualquier middleware adicional de express, se puede realizar en el archivo ```models/server.js```
+- Take into account the following steps by step
+
+# Rebuild the node dependences and run the app
+
+```
+yarn install
+yarn start
+```
+
+# Set up environment variables in the backend
+
+Rename file **.env.template** to **.env**
